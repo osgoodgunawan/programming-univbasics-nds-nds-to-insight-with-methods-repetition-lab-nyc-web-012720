@@ -29,7 +29,7 @@ def list_of_directors(source)
   index =0
 
  while index<source.size do 
-  source[index]
+    array.push(source[index][:name])
  end
 end
 
