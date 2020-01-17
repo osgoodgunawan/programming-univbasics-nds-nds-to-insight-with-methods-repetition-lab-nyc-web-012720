@@ -47,6 +47,7 @@ def total_gross(source)
   # return the total
   total=0
   count=0
+  director=
   while count<source.size do
     
     count+=1
