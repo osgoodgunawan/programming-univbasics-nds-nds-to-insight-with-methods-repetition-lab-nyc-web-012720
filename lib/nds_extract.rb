@@ -48,12 +48,12 @@ def total_gross(source)
   total=0
   count=0
   directors=directors_totals(source)
-  direcotr_list=list_of_directors(source)
-  while count<director.length do
+  directors_list=list_of_directors(source)
+  while count<directors.length do
     
     count+=1
   end
-  
+  total
 end
 
 
